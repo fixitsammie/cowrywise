@@ -1,5 +1,5 @@
 # cowrytest
- Wrtie a simple api to generate uuid
+ Write a simple api to generate uuid
 
 
 Live Demo:
